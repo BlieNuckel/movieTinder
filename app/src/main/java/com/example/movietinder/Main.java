@@ -1,7 +1,5 @@
 package com.example.movietinder;
 
-import 
-
 public class Main {
     public static void main(String[] args){
         OkHttpClient client = new OkHttpClient();
