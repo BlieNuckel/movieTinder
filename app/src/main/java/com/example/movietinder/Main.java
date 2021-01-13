@@ -1,7 +1,17 @@
 package com.example.movietinder;
 
+import java.io.IOException;
+
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
+
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
+
+    }
+
+    public void callAPI() throws IOException {
         OkHttpClient client = new OkHttpClient();
 
         Request request = new Request.Builder()
@@ -12,8 +22,5 @@ public class Main {
                 .build();
 
         Response response = client.newCall(request).execute();
-    }
-    public void doSomething(){
-
     }
 }
