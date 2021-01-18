@@ -1,0 +1,15 @@
+com/example/movietinder/MainActivity.java
+ com.example.movietinder.MainActivity
+ com.example.movietinder.MainActivity$1
+com/example/movietinder/SecondFragment.java
+ com.example.movietinder.SecondFragment
+ com.example.movietinder.SecondFragment$1
+com/example/movietinder/Movie.java
+ com.example.movietinder.Movie
+com/example/movietinder/BuildConfig.java
+ com.example.movietinder.BuildConfig
+com/example/movietinder/FirstFragment.java
+ com.example.movietinder.FirstFragment
+ com.example.movietinder.FirstFragment$1
+com/example/movietinder/Main.java
+ com.example.movietinder.Main
