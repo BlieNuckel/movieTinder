@@ -1709,10 +1709,9 @@ id beginOnFirstDraw
 id beginning
 id blocking
 id bottom
+id bottomNavigationView
 id bounce
 id buttonPanel
-id button_first
-id button_second
 id cache_measures
 id cancel_button
 id center
@@ -1776,7 +1775,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fade
 id fill
 id fill_horizontal
@@ -1788,6 +1786,7 @@ id flip
 id floating
 id forever
 id fragment_container_view_tag
+id friendFragment
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1821,6 +1820,7 @@ id line3
 id linear
 id listMode
 id list_item
+id mainFragment
 id masked
 id message
 id middle
@@ -1966,6 +1966,8 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView2
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1974,8 +1976,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id textview_first
-id textview_second
 id time
 id title
 id titleDividerNoCustom
@@ -2185,8 +2185,6 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string first_fragment_label
-string hello_first_fragment
-string hello_second_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
