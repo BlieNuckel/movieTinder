@@ -15,6 +15,7 @@ public class Main {
     public void callAPI() throws IOException {
         OkHttpClient client = new OkHttpClient();
 
+
         Request request = new Request.Builder()
                 .url("https://imdb8.p.rapidapi.com/title/auto-complete?q=game%20of%20thr")
                 .get()
